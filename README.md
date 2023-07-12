@@ -21,4 +21,4 @@
 ## 세미나 발표자료
 | 주차 | 발표 자료 | 발표 내용 |
 |:--:|:--:|:--:|
-| 1주차 | [Week_01](Week_01.pptx) | CNN, VGG16 |
+| 1주차 | [Week_01](seminar/Week_01.pptx) | CNN, VGG16 |
