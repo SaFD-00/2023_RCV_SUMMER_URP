@@ -7,7 +7,6 @@
 <br>
 
 ## 🤡 ISSUES
-### [List](https://github.com/SaFD-00/2023_RCV_SUMMER_URP/issues)
 - 매일 공부한 내용
 - Seminar Feedback
 - 공유할만한 Tip
