@@ -17,7 +17,7 @@
 | 주차 | 학습 내용 | 학습 Code | 기타 |
 |:--:|:--:|:--:|:--:|
 | Boostcamp | 최유경 교수님 인공지능 수업 |  | [강의](https://www.youtube.com/watch?v=J6hiz5zfDC0&list=PL1xKqHsVFgvk8nB5kJ3N0fFt3etudUBWt) |
-| 1주차 | 인공지능 기초 & Detection 기초 | [AlexNet]() / [VGG16]() |  |
+| 1주차 | 인공지능 기초 & Detection 기초 | [AlexNet]() <br> [VGG16]() |  |
 | 2주차 | SSD 기초 & PASCAL | [SSD]() | [참고 자료](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) |
 | 3주차 | KAIST PD 기초 |  |  |
 | 4-6주차 | KAIST PD 응용 |  |  |
