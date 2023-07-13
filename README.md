@@ -29,3 +29,4 @@
 | 주차 | 발표 자료 | 발표 내용 |
 |:--:|:--:|:--:|
 | 1주차 | [Week_01](seminar/Week_01.pptx) | CNN, VGG16 |
+| 2주차 | [Week_02](seminar/Week_02.pptx) | SSD |
