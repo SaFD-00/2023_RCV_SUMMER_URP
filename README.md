@@ -29,3 +29,4 @@
 |:--:|:--:|:--:|
 | 1주차 | [Week_01](seminar/Week_01.pptx) | CNN, VGG16 |
 | 2주차 | [Week_02](seminar/Week_02.pptx) | SSD |
+| 3주차 | [Week_03](seminar/Week_03.pptx) | SSD with KAIST PD Dataset |
